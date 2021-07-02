@@ -1,0 +1,5 @@
+[12.12.1212 12:12:12] [imo .skype ] user1 : hello :)
+[12.12.12 12:12:21] [imo .skype ] user2 : hello to you too :)
+[12.12.12 12:12:12] [imo .skype ] user1 : how was your day :)
+[12.12.12 12:12:12] [imo .skype ] user2 : i am tired :( :( :( :(
+[12.12.12 12:12:12] [imo .skype ] user2 : how was yours

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623434120 source:c:\users\thinkpad w541\desktop\kursovapik2.9\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
